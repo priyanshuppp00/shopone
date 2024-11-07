@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Analogue Resin Strap",
+        "price": {
+            "oldPrice": 1999.00,
+            "newPrice": 1799.00
+        },
+        "discount": 200,
+        "img": {
+            "singleImage": "img/products/product1/1.png",
+            "thumbs": [
+                "img/products/product1/1.png",
+                "img/products/product1/2.png",
+                "img/products/product1/3.png"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ridley High Waist",
+        "price": {
+            "oldPrice": 1599.00,
+            "newPrice": 1099.00
+        },
+        "discount": 500,
+        "img": {
+            "singleImage": "img/products/product2/1.png",
+            "thumbs": [
+                "img/products/product2/1.png",
+                "img/products/product2/2.png",
+                "img/products/product2/3.png"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Blush Beanie",
+        "price": {
+            "oldPrice": 1099.00,
+            "newPrice": 999.00
+        },
+        "discount": 100,
+        "img": {
+            "singleImage": "img/products/product3/1.png",
+            "thumbs": [
+                "img/products/product3/1.png",
+                "img/products/product3/2.png",
+                "img/products/product3/3.png"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mercury Tee",
+        "price": {
+            "oldPrice": 599.00,
+            "newPrice": 499.00
+        },
+        "discount": 100,
+        "img": {
+            "singleImage": "img/products/product4/1.png",
+            "thumbs": [
+                "img/products/product4/1.png",
+                "img/products/product4/2.png",
+                "img/products/product4/3.png"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "La Bohème Rose Gold",
+        "price": {
+            "oldPrice": 799.00,
+            "newPrice": 699.00
+        },
+        "discount": 100,
+        "img": {
+            "singleImage": "img/products/product5/1.png",
+            "thumbs": [
+                "img/products/product5/1.png",
+                "img/products/product5/2.png",
+                "img/products/product5/3.png"
+            ]
+        }
+    }
+]
