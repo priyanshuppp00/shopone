@@ -1,4 +1,4 @@
-# E-Commerce Project
+# shop One
 
 
 Hi, this project is a fully responsive e-commerce website project made only HTML, CSS and JavaScript.
